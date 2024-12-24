@@ -1,0 +1,14 @@
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\bin\Debug\net8.0\exerciceSapin.exe
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\bin\Debug\net8.0\exerciceSapin.deps.json
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\bin\Debug\net8.0\exerciceSapin.runtimeconfig.json
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\bin\Debug\net8.0\exerciceSapin.dll
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\bin\Debug\net8.0\exerciceSapin.pdb
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.AssemblyInfoInputs.cache
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.AssemblyInfo.cs
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.csproj.CoreCompileInputs.cache
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.dll
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\refint\exerciceSapin.dll
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.pdb
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\exerciceSapin.genruntimeconfig.cache
+C:\Users\siste\OneDrive\Documents\exercice\exerciceSapin\exerciceSapin\obj\Debug\net8.0\ref\exerciceSapin.dll
